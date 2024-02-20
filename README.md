@@ -1,4 +1,4 @@
-# GBTL
+# GBTL-attack
 This is the official repository for "Learning to Poison Large Language Models During Instruction Tuning" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
 
 ## Installation
