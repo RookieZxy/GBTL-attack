@@ -1,5 +1,5 @@
 # GBTL-attack
-This is the official repository for "Learning to Poison Large Language Models During Instruction Tuning" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://www.linkedin.com/in/saleh-zare-zade-5a821421b/), [Mohammad Amin Roshani](), [Douglas Zytko](https://dougzytko.com/) and [Dongxiao Zhu](https://dongxiaozhu.github.io/)  
+This is the official repository for "Learning to Poison Large Language Models During Instruction Tuning" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://www.linkedin.com/in/saleh-zare-zade-5a821421b/), [Mohammad Amin Roshani](https://www.linkedin.com/in/mohammad-amin-roshani), [Douglas Zytko](https://dougzytko.com/) and [Dongxiao Zhu](https://dongxiaozhu.github.io/)  
 
 ![Illustration of our poisoning attack](example.png)
 
