@@ -1,7 +1,8 @@
 # GBTL-attack
-This is the official repository for "Learning to Poison Large Language Models During Instruction Tuning" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
+This is the official repository for "Learning to Poison Large Language Models During Instruction Tuning" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://www.linkedin.com/in/saleh-zare-zade-5a821421b/), [Mohammad Amin Roshani](), [Douglas Zytko](https://dougzytko.com/) and [Dongxiao Zhu](https://dongxiaozhu.github.io/)  
 
 ![Illustration of our poisoning attack](example.png)
+
 ## Installation
 We use the newest version of PyEnchant, FastChat, and livelossplot. These three packages can be installed by running the following command:
 ```bash
